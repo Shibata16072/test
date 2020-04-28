@@ -11,4 +11,4 @@
  [GoGoogle](https://www.google.co.jp/) 
  
 
- [testページ](https://shibata16072.github.io/test/.) 
+[testページ](./test.html) 
